@@ -1,2 +1,3 @@
 # Language-translator-
-Our project demonstrates a leader-follower truck model using Arduino. The leader truck is controlled manually through Bluetooth, while the follower truck automatically follows the leader while maintaining a safe distance.
+Language Translation Tool
+A simple and interactive Language Translation Web Application developed using HTML, CSS, and JavaScript. This tool allows users to translate text from one language to another using a Translation API.
