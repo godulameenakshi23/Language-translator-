@@ -1,3 +1,12 @@
-# Language-translator-
-Language Translation Tool
-A simple and interactive Language Translation Web Application developed using HTML, CSS, and JavaScript. This tool allows users to translate text from one language to another using a Translation API.
+# Language Translation Tool
+
+Simple translator web application.
+
+## Features
+- Translate text
+- Language selection
+- Copy translated text
+- Text to speech
+
+## Run
+Open index.html using Live Server in VS Code.
